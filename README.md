@@ -175,9 +175,7 @@ const tabassum = {
 
 <div align="center">
 
-### 💜 A Little Reminder
-
-**"Code. Create. Learn. Repeat."**
+### A Little Reminder
 
 <div align="center">
   <img src="https://capsule-render.vercel.app/api?type=rect&color=0:0F172A,50:4C1D95,100:9333EA&height=100&section=footer&text=Code.%20Create.%20Learn.%20Repeat.&fontSize=22&fontColor=E9D5FF&fontAlignY=55" width="100%"/>
