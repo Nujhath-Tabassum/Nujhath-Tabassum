@@ -1,4 +1,4 @@
-change the banner design <div align="center">
+<div align="center">
 
 <img src="https://capsule-render.vercel.app/api?type=rect&color=0:0F172A,35:312E81,70:6D28D9,100:C084FC&height=220&section=header&text=Syeda%20Nujhath%20Tabassum&fontSize=38&fontColor=FFFFFF&fontAlignY=43&desc=Frontend%20Developer%20%20%7C%20%20CSE%20Student&descSize=17&descAlignY=65&descColor=E9D5FF" width="100%"/>
 
