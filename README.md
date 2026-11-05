@@ -112,22 +112,20 @@ const tabassum = {
 
 <div align="center">
 
-<a href="https://github.com/Nujhath-Tabassum">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Nujhath-Tabassum&theme=tokyo-night&hide_border=true&area=true&custom_title=My%20GitHub%20Contribution%20Activity" width="100%" alt="GitHub Contribution Activity"/>
-</a>
+<img src="https://ghchart.rshah.org/764ba2/Nujhath-Tabassum" alt="GitHub Contribution Activity" width="100%"/>
 
 </div>
 
 ---
 
-## 🐍 My Contributions
+##  My Contributions
 
 <div align="center">
 
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Nujhath-Tabassum/Nujhath-Tabassum/output/github-snake-dark.svg">
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Nujhath-Tabassum/Nujhath-Tabassum/output/github-snake.svg">
-  <img alt="GitHub Contribution Snake" src="https://raw.githubusercontent.com/Nujhath-Tabassum/Nujhath-Tabassum/output/github-snake.svg" width="100%"/>
+  <img alt="GitHub Contribution Snake" src="https://raw.githubusercontent.com/Nujhath-Tabassum/Nujhath-Tabassum/output/github-snake.svg" width="100%">
 </picture>
 
 </div>
