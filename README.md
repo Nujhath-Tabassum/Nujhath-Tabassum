@@ -1,6 +1,6 @@
 change the banner design <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:667eea,100:764ba2&height=200&section=header&text=Syeda%20Nujhath%20Tabassum&fontSize=35&fontColor=ffffff&fontAlignY=38&desc=Frontend%20Developer%20%7C%20CSE%20Student&descAlignY=58&descSize=17" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:0F172A,35:312E81,70:6D28D9,100:C084FC&height=220&section=header&text=Syeda%20Nujhath%20Tabassum&fontSize=38&fontColor=FFFFFF&fontAlignY=43&desc=Frontend%20Developer%20%20%7C%20%20CSE%20Student&descSize=17&descAlignY=65&descColor=E9D5FF" width="100%"/>
 
 <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=22&duration=3000&pause=1000&color=A78BFA&center=true&vCenter=true&width=600&lines=Hey+there!+%F0%9F%91%8B;Frontend+Developer+%F0%9F%92%BB;Learning+Full+Stack+Development+%F0%9F%9A%80;Turning+Ideas+Into+Code+%E2%9C%A8;Always+Learning+and+Growing+%F0%9F%8C%B1" alt="Typing SVG"/>
 
@@ -72,17 +72,6 @@ const tabassum = {
 </a>
 
 </div>
-
----
-
-## 🏆 GitHub Trophies
-
-<div align="center">
-
-<img src="https://github-profile-trophy.vercel.app/?username=Nujhath-Tabassum&theme=discord&no-frame=true&no-bg=true&margin-w=4&row=1" width="100%"/>
-
-</div>
-
 
 ---
 
