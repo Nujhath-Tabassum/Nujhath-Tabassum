@@ -1,13 +1,19 @@
 
 <div align="center">
 
-# Hi 👋, I'm Syeda Nujhath Tabassum
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:667eea,100:764ba2&height=200&section=header&text=Syeda%20Nujhath%20Tabassum&fontSize=35&fontColor=ffffff&fontAlignY=38&desc=Frontend%20Developer%20%7C%20CSE%20Student&descAlignY=58&descSize=17" width="100%"/>
 
-### 💻 Frontend Developer | CSE Student | Tech Enthusiast
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=22&duration=3000&pause=1000&color=A78BFA&center=true&vCenter=true&width=600&lines=Hey+there!+%F0%9F%91%8B;Frontend+Developer+%F0%9F%92%BB;Learning+Full+Stack+Development+%F0%9F%9A%80;Turning+Ideas+Into+Code+%E2%9C%A8;Always+Learning+and+Growing+%F0%9F%8C%B1" alt="Typing SVG"/>
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=22&duration=3000&pause=1000&color=36BCF7&center=true&vCenter=true&width=600&lines=Passionate+Frontend+Developer;Learning+Full+Stack+Development;Building+Creative+Web+Experiences;Always+Learning+Something+New!" alt="Typing SVG" />
+<br/>
 
-<img src="https://komarev.com/ghpvc/?username=nujhath-tabassum&label=Profile%20Views&color=brightgreen&style=flat" alt="Profile Views" />
+<a href="https://github.com/Nujhath-Tabassum">
+<img src="https://komarev.com/ghpvc/?username=Nujhath-Tabassum&label=Profile%20Visitors&color=blueviolet&style=for-the-badge" />
+</a>
+
+<a href="https://github.com/Nujhath-Tabassum?tab=followers">
+<img src="https://img.shields.io/github/followers/Nujhath-Tabassum?style=for-the-badge&color=blue&label=Followers" />
+</a>
 
 </div>
 
@@ -15,83 +21,72 @@
 
 ## 🌸 About Me
 
-- 🌍 I'm from **Bangladesh**
-- 🎓 CSE Student
-- 💻 Passionate about **Frontend Development**
-- 🌱 Currently learning **Full Stack Web Development**
-- 🚀 Exploring React, Next.js and Backend Technologies
-- 🎨 Interested in UI/UX Design and Creative Arts
-- ⚡ Fun fact: I think I'm a developer with a creative side!
+
+const tabassum = {
+    name: "Syeda Nujhath Tabassum",
+    location: "Bangladesh 🇧🇩",
+    education: "Computer Science & Engineering",
+    role: "Frontend Developer",
+    currentlyLearning: [
+        "Full Stack Development",
+        "React.js",
+        "Next.js",
+        "Backend Development"
+    ],
+    interests: [
+        "Web Development",
+        "UI/UX Design",
+        "Creative Arts",
+        "Learning New Technologies"
+    ],
+    funFact: "A developer with a creative side! 🎨"
+};
+
+
+- 💻 Passionate about creating beautiful and functional websites.
+- 🌱 Currently exploring full-stack development.
+- 🚀 Improving my React, Next.js and backend skills.
+- 🎨 Interested in UI/UX design and creative arts.
+- ⚡ Turning ideas into code, one project at a time!
 
 ---
 
 ## 💬 Ask Me About
 
-`HTML` `CSS` `JavaScript` `TypeScript` `React.js` `Next.js` `Tailwind CSS` `Node.js` `Express.js` `MongoDB`
+<p align="center">
+<img src="https://img.shields.io/badge/HTML-E34F26?style=for-the-badge&logo=html5&logoColor=white"/>
+<img src="https://img.shields.io/badge/CSS-1572B6?style=for-the-badge&logo=css3&logoColor=white"/>
+<img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black"/>
+<img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white"/>
+<img src="https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black"/>
+<img src="https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=next.js&logoColor=white"/>
+<img src="https://img.shields.io/badge/Tailwind_CSS-06B6D4?style=for-the-badge&logo=tailwindcss&logoColor=white"/>
+<img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white"/>
+<img src="https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white"/>
+<img src="https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white"/>
+</p>
 
 ---
 
-## 🛠️ Languages and Tools
+## 🛠️ Languages & Tools
 
-<p align="center">
-  <a href="https://www.w3.org/html/">
-    <img src="https://skillicons.dev/icons?i=html" width="45"/>
-  </a>
-  <a href="https://www.w3schools.com/css/">
-    <img src="https://skillicons.dev/icons?i=css" width="45"/>
-  </a>
-  <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript">
-    <img src="https://skillicons.dev/icons?i=js" width="45"/>
-  </a>
-  <a href="https://www.typescriptlang.org/">
-    <img src="https://skillicons.dev/icons?i=ts" width="45"/>
-  </a>
-  <a href="https://react.dev/">
-    <img src="https://skillicons.dev/icons?i=react" width="45"/>
-  </a>
-  <a href="https://nextjs.org/">
-    <img src="https://skillicons.dev/icons?i=nextjs" width="45"/>
-  </a>
-  <a href="https://tailwindcss.com/">
-    <img src="https://skillicons.dev/icons?i=tailwind" width="45"/>
-  </a>
-  <a href="https://nodejs.org/">
-    <img src="https://skillicons.dev/icons?i=nodejs" width="45"/>
-  </a>
-  <a href="https://expressjs.com/">
-    <img src="https://skillicons.dev/icons?i=express" width="45"/>
-  </a>
-  <a href="https://www.mongodb.com/">
-    <img src="https://skillicons.dev/icons?i=mongodb" width="45"/>
-  </a>
-  <a href="https://www.figma.com/">
-    <img src="https://skillicons.dev/icons?i=figma" width="45"/>
-  </a>
-  <a href="https://git-scm.com/">
-    <img src="https://skillicons.dev/icons?i=git" width="45"/>
-  </a>
-  <a href="https://github.com/">
-    <img src="https://skillicons.dev/icons?i=github" width="45"/>
-  </a>
-  <a href="https://www.python.org/">
-    <img src="https://skillicons.dev/icons?i=python" width="45"/>
-  </a>
-  <a href="https://www.java.com/">
-    <img src="https://skillicons.dev/icons?i=java" width="45"/>
-  </a>
-  <a href="https://isocpp.org/">
-    <img src="https://skillicons.dev/icons?i=cpp" width="45"/>
-  </a>
-  <a href="https://www.cprogramming.com/">
-    <img src="https://skillicons.dev/icons?i=c" width="45"/>
-  </a>
-  <a href="https://www.adobe.com/products/photoshop.html">
-    <img src="https://skillicons.dev/icons?i=ps" width="45"/>
-  </a>
-  <a href="https://www.adobe.com/products/illustrator.html">
-    <img src="https://skillicons.dev/icons?i=ai" width="45"/>
-  </a>
-</p>
+<div align="center">
+
+<a href="https://skillicons.dev">
+<img src="https://skillicons.dev/icons?i=html,css,js,ts,react,nextjs,tailwind,nodejs,express,mongodb,figma,git,github,python,java,cpp,c,ps,ai&perline=7" />
+</a>
+
+</div>
+
+---
+
+## 🏆 GitHub Trophies
+
+<div align="center">
+
+<img src="https://github-profile-trophy.vercel.app/?username=Nujhath-Tabassum&theme=discord&no-frame=true&no-bg=true&margin-w=4&row=1" width="100%"/>
+
+</div>
 
 ---
 
@@ -99,19 +94,39 @@
 
 <div align="center">
 
-<img src="https://github-stats-extended.vercel.app/api?username=Nujhath-Tabassum&show_icons=true&theme=tokyonight" width="48%" />
+<img width="49%" src="https://github-readme-stats.vercel.app/api?username=Nujhath-Tabassum&show_icons=true&theme=tokyonight&hide_border=true&rank_icon=github"/>
 
-<img src="https://github-stats-extended.vercel.app/api/top-langs/?username=Nujhath-Tabassum&layout=compact&theme=tokyonight" width="48%" />
+<img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Nujhath-Tabassum&layout=compact&theme=tokyonight&hide_border=true"/>
 
 </div>
 
 ---
 
-## 🔥 My Contribution Streak
+## 🔥 Contribution Streak
 
 <div align="center">
 
-<img src="https://streak-stats.demolab.com/?user=Nujhath-Tabassum&theme=tokyonight&hide_border=true" />
+<img src="https://streak-stats.demolab.com/?user=Nujhath-Tabassum&theme=tokyonight&hide_border=true" width="70%"/>
+
+</div>
+
+---
+
+## 📈 Contribution Activity
+
+<div align="center">
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=Nujhath-Tabassum&theme=tokyo-night&hide_border=true&area=true" width="100%"/>
+
+</div>
+
+---
+
+## 🐍 Watch My Contributions Get Eaten!
+
+<div align="center">
+
+<img src="https://raw.githubusercontent.com/Nujhath-Tabassum/Nujhath-Tabassum/output/github-contribution-grid-snake-dark.svg" alt="Contribution Snake"/>
 
 </div>
 
@@ -119,18 +134,34 @@
 
 ## 🚀 Currently Working On
 
-- Building full-stack web development projects.
-- Improving my React and Next.js skills.
+<details>
+<summary>🌱 What I'm learning right now</summary>
+
+- Improving my React.js and Next.js skills.
 - Exploring backend development.
-- Learning new technologies and improving my coding skills.
+- Building full-stack web applications.
+- Learning new technologies and improving problem-solving skills.
+
+</details>
+
+<details>
+<summary>🎯 My Developer Goals</summary>
+
+- Build more real-world projects.
+- Become a better full-stack developer.
+- Improve my UI/UX design skills.
+- Contribute to open-source projects.
+- Keep learning and growing!
+
+</details>
 
 ---
 
-## 🌐 Connect With Me
+## 🌐 Let's Connect!
 
-<p align="center">
+<div align="center">
 
-<a href="https://github.com/nujhath-tabassum">
+<a href="https://github.com/Nujhath-Tabassum">
 <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
 </a>
 
@@ -142,14 +173,20 @@
 <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
 </a>
 
-</p>
+</div>
 
 ---
 
 <div align="center">
 
-### ✨ "Turning ideas into code, and dreams into reality." ✨
+### 💜 A little reminder
 
-**Thanks for visiting my profile! 💚**
+**"Code. Create. Learn. Repeat."**
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:667eea,100:764ba2&height=100&section=footer" width="100%"/>
 
 </div>
+```
+
+
+
