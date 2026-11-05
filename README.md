@@ -6,9 +6,6 @@ change the banner design <div align="center">
 
 <br/>
 
-<img src="https://komarev.com/ghpvc/?username=Nujhath-Tabassum&label=Profile%20Visitors&color=blueviolet&style=for-the-badge"/>
-
-<img src="https://img.shields.io/github/followers/Nujhath-Tabassum?style=for-the-badge&color=blue&label=Followers"/>
 
 </div>
 
@@ -182,9 +179,11 @@ const tabassum = {
 
 **"Code. Create. Learn. Repeat."**
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:667eea,100:764ba2&height=100&section=footer" width="100%"/>
-
+<div align="center">
+  <img src="https://capsule-render.vercel.app/api?type=rect&color=0:0F172A,50:4C1D95,100:9333EA&height=100&section=footer&text=Code.%20Create.%20Learn.%20Repeat.&fontSize=22&fontColor=E9D5FF&fontAlignY=55" width="100%"/>
 </div>
+
+
 
 
 
