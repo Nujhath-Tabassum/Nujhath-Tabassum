@@ -99,9 +99,9 @@
 
 <div align="center">
 
-<img width="48%" src="https://github-readme-stats.vercel.app/api?username=Nujhath-Tabassum&show_icons=true&theme=tokyonight&hide_border=true" />
+<img src="https://github-stats-extended.vercel.app/api?username=Nujhath-Tabassum&show_icons=true&theme=tokyonight" width="48%" />
 
-<img width="48%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Nujhath-Tabassum&layout=compact&theme=tokyonight&hide_border=true" />
+<img src="https://github-stats-extended.vercel.app/api/top-langs/?username=Nujhath-Tabassum&layout=compact&theme=tokyonight" width="48%" />
 
 </div>
 
