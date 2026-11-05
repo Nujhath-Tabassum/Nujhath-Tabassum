@@ -112,7 +112,9 @@ const tabassum = {
 
 <div align="center">
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=Nujhath-Tabassum&theme=tokyo-night&hide_border=true&area=true" width="100%" alt="GitHub Contribution Activity"/>
+<a href="https://github.com/Nujhath-Tabassum">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Nujhath-Tabassum&theme=tokyo-night&hide_border=true&area=true&custom_title=My%20GitHub%20Contribution%20Activity" width="100%" alt="GitHub Contribution Activity"/>
+</a>
 
 </div>
 
@@ -196,7 +198,7 @@ const tabassum = {
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:667eea,100:764ba2&height=100&section=footer" width="100%"/>
 
 </div>
-````
+
 
 
 
