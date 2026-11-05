@@ -1,5 +1,7 @@
 <h1 align="center">Hi 👋, I'm Syeda Nujhath Tabassum.</h1>
-<h3 align="center">A passionate frontend developer from Bangladesh</h3>
+<h3 align="center">A passionate frontend developer from Bangladesh.</h3>
+
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=nujhath-tabassum" alt="nujhath-tabassum" /></a> </p>
 
 - 🌱 I’m currently learning **full-stack web development projects, improving my React and Next.js skills, and exploring backend development.**
 
@@ -22,4 +24,3 @@
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=nujhath-tabassum&show_icons=true&locale=en" alt="nujhath-tabassum" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=nujhath-tabassum&" alt="nujhath-tabassum" /></p>
-
