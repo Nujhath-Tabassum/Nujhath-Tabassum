@@ -1,20 +1,20 @@
+<div align="center">
 
-\<div align="center">
+<img src="https://capsule-render.vercel.app/api?type=venom&height=250&color=0:0D1117,40:312E81,100:9333EA&text=Syeda%20Nujhath%20Tabassum&fontSize=38&fontColor=E9D5FF&fontAlignY=40&desc=Frontend%20Developer%20%7C%20CSE%20Student&descSize=17&descAlignY=58&descColor=C4B5FD&animation=fadeIn" width="100%"/>
 
-\<img src="[https://capsule-render.vercel.app/api?type=venom&height=250&color=0:0D1117,40:312E81,100:9333EA&text=Syeda%20Nujhath%20Tabassum&fontSize=38&fontColor=E9D5FF&fontAlignY=40&desc=Frontend%20Developer%20%7C%20CSE%20Student&descSize=17&descAlignY=58&descColor=C4B5FD&animation=fadeIn](https://capsule-render.vercel.app/api?type=venom\&height=250\&color=0:0D1117,40:312E81,100:9333EA\&text=Syeda%20Nujhath%20Tabassum\&fontSize=38\&fontColor=E9D5FF\&fontAlignY=40\&desc=Frontend%20Developer%20%7C%20CSE%20Student\&descSize=17\&descAlignY=58\&descColor=C4B5FD\&animation=fadeIn)" width="100%"/>
+<br/>
 
-\<br/>
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=21&duration=3000&pause=1000&color=C4B5FD&center=true&vCenter=true&width=650&lines=Hey+there!+%F0%9F%91%8B;Frontend+Developer+%F0%9F%92%BB;Learning+Full+Stack+Development+%F0%9F%9A%80;Turning+Ideas+Into+Code+%E2%9C%A8;Always+Learning+and+Growing+%F0%9F%8C%B1" alt="Typing SVG"/>
 
-\<img src="[https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=21&duration=3000&pause=1000&color=C4B5FD&center=true&vCenter=true&width=650&lines=Hey+there!+%F0%9F%91%8B;Frontend+Developer+%F0%9F%92%BB;Learning+Full+Stack+Development+%F0%9F%9A%80;Turning+Ideas+Into+Code+%E2%9C%A8;Always+Learning+and+Growing+%F0%9F%8C%B1](https://readme-typing-svg.demolab.com?font=Fira+Code\&weight=500\&size=21\&duration=3000\&pause=1000\&color=C4B5FD\&center=true\&vCenter=true\&width=650\&lines=Hey+there!+%F0%9F%91%8B;Frontend+Developer+%F0%9F%92%BB;Learning+Full+Stack+Development+%F0%9F%9A%80;Turning+Ideas+Into+Code+%E2%9C%A8;Always+Learning+and+Growing+%F0%9F%8C%B1)" alt="Typing SVG"/>
+<br/><br/>
 
-\<br/>\<br/>
+<img src="https://komarev.com/ghpvc/?username=Nujhath-Tabassum&label=PROFILE+VIEWS&color=9333EA&style=for-the-badge"/>
 
-\<img src="[https://komarev.com/ghpvc/?username=Nujhath-Tabassum&label=PROFILE+VIEWS&color=9333EA&style=for-the-badge](https://komarev.com/ghpvc/?username=Nujhath-Tabassum\&label=PROFILE+VIEWS\&color=9333EA\&style=for-the-badge)"/>
+<img src="https://img.shields.io/github/followers/Nujhath-Tabassum?style=for-the-badge&color=6D28D9&label=FOLLOWERS"/>
 
-\<img src="[https://img.shields.io/github/followers/Nujhath-Tabassum?style=for-the-badge&color=6D28D9&label=FOLLOWERS](https://img.shields.io/github/followers/Nujhath-Tabassum?style=for-the-badge\&color=6D28D9\&label=FOLLOWERS)"/>
+</div>
 
-\</div>
-
+---
 ---
 
 ## 🌸 About Me
