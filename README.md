@@ -41,6 +41,7 @@ const tabassum = {
     ],
     funFact: "A developer with a creative side! 🎨"
 };
+```
 
 
 - 💻 Passionate about creating beautiful and functional websites.
@@ -114,22 +115,26 @@ const tabassum = {
 
 ## 📈 Contribution Activity
 
+## 📈 Contribution Activity
+
 <div align="center">
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=Nujhath-Tabassum&theme=tokyo-night&hide_border=true&area=true" width="100%"/>
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=Nujhath-Tabassum&theme=tokyo-night&hide_border=true&area=true" width="100%" alt="GitHub Activity Graph"/>
 
 </div>
 
 ---
 
-## My Contributions 
+## My Contributions
 
 <div align="center">
 
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Nujhath-Tabassum/Nujhath-Tabassum/output/github-snake-dark.svg">
+
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Nujhath-Tabassum/Nujhath-Tabassum/output/github-snake.svg">
-  <img alt="GitHub Contribution Snake" src="https://raw.githubusercontent.com/Nujhath-Tabassum/Nujhath-Tabassum/output/github-snake.svg">
+
+  <img alt="GitHub Contribution Snake" src="https://raw.githubusercontent.com/Nujhath-Tabassum/Nujhath-Tabassum/output/github-snake.svg" width="100%"/>
 </picture>
 
 </div>
