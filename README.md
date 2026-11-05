@@ -106,17 +106,7 @@ const tabassum = {
 
 </div>
 
----
 
-## 📈 Contribution Activity
-
-<div align="center">
-
-<img src="https://ghchart.rshah.org/764ba2/Nujhath-Tabassum" alt="GitHub Contribution Activity" width="100%"/>
-
-</div>
-
----
 
 ##  My Contributions
 
