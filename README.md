@@ -16,20 +16,10 @@ change the banner design <div align="center">
 const tabassum = {
   name: "Syeda Nujhath Tabassum",
   location: "Bangladesh 🇧🇩",
-  education: "Computer Science & Engineering",
+  education: "CSE Student",
   role: "Frontend Developer",
-  currentlyLearning: [
-    "Full Stack Development",
-    "React.js",
-    "Next.js",
-    "Backend Development"
-  ],
-  interests: [
-    "Web Development",
-    "UI/UX Design",
-    "Creative Arts",
-    "New Technologies"
-  ],
+  currentlyLearning: ["React.js", "Next.js", "Full Stack Development"],
+  interests: ["Web Development", "UI/UX Design", "Creative Arts"],
   funFact: "A developer with a creative side! 🎨"
 };
 
