@@ -84,9 +84,6 @@ const tabassum = {
 
 </div>
 
----
-
-## 📊 GitHub Statistics
 
 ---
 
@@ -102,11 +99,12 @@ const tabassum = {
 
 <br/><br/>
 
-<img
-  src="https://streak-stats.demolab.com/?user=Nujhath-Tabassum&theme=tokyonight&hide_border=true&background=0D1117&ring=BC8CF2&fire=BC8CF2&currStreakLabel=BC8CF2"
-  width="95%"
-  alt="GitHub Contribution Streak"
-/>
+<div align="center">
+
+<img src="https://streak-stats.demolab.com/?user=Nujhath-Tabassum&theme=tokyonight&hide_border=true" width="70%"/>
+
+</div>
+
 
 <br/><br/>
 
@@ -119,17 +117,6 @@ const tabassum = {
 </div>
 
 ---
-
----
-
-## 🔥 Contribution Streak
-
-<div align="center">
-
-<img src="https://streak-stats.demolab.com/?user=Nujhath-Tabassum&theme=tokyonight&hide_border=true" width="70%"/>
-
-</div>
-
 
 
 ##  My Contributions
