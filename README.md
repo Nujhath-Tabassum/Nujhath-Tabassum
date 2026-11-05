@@ -13,33 +13,32 @@ change the banner design <div align="center">
 
 ## 🌸 About Me
 
-
 const tabassum = {
-    name: "Syeda Nujhath Tabassum",
-    location: "Bangladesh 🇧🇩",
-    education: "Computer Science & Engineering",
-    role: "Frontend Developer",
-    currentlyLearning: [
-        "Full Stack Development",
-        "React.js",
-        "Next.js",
-        "Backend Development"
-    ],
-    interests: [
-        "Web Development",
-        "UI/UX Design",
-        "Creative Arts",
-        "Learning New Technologies"
-    ],
-    funFact: "A developer with a creative side! 🎨"
+  name: "Syeda Nujhath Tabassum",
+  location: "Bangladesh 🇧🇩",
+  education: "Computer Science & Engineering",
+  role: "Frontend Developer",
+  currentlyLearning: [
+    "Full Stack Development",
+    "React.js",
+    "Next.js",
+    "Backend Development"
+  ],
+  interests: [
+    "Web Development",
+    "UI/UX Design",
+    "Creative Arts",
+    "New Technologies"
+  ],
+  funFact: "A developer with a creative side! 🎨"
 };
 
 
-- 💻 Passionate about creating beautiful and functional websites.
-- 🌱 Currently exploring full-stack development.
-- 🚀 Improving my React, Next.js and backend skills.
-- 🎨 Interested in UI/UX Design and Creative Arts.
-- ⚡ Turning ideas into code, one project at a time!
+- 💻 Passionate about building beautiful and functional websites.
+- 🌱 Exploring the world of full-stack development.
+- 🚀 Continuously improving my React, Next.js, and backend skills.
+- 🎨 Love combining creativity with technology through UI/UX design.
+- ✨ Turning ideas into code, one project at a time!
 
 ---
 
