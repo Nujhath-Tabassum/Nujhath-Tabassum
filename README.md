@@ -88,13 +88,37 @@ const tabassum = {
 
 ## 📊 GitHub Statistics
 
+---
+
+## 📊 GitHub Stats
+
 <div align="center">
 
-<img width="49%" src="https://github-readme-stats.vercel.app/api?username=Nujhath-Tabassum&show_icons=true&theme=tokyonight&hide_border=true&rank_icon=github"/>
+<img
+  src="https://github-stats-extended.vercel.app/api?username=Nujhath-Tabassum&show_icons=true&theme=tokyonight&hide_border=true"
+  width="90%"
+  alt="GitHub Statistics"
+/>
 
-<img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Nujhath-Tabassum&layout=compact&theme=tokyonight&hide_border=true"/>
+<br/><br/>
+
+<img
+  src="https://streak-stats.demolab.com/?user=Nujhath-Tabassum&theme=tokyonight&hide_border=true&background=0D1117&ring=BC8CF2&fire=BC8CF2&currStreakLabel=BC8CF2"
+  width="95%"
+  alt="GitHub Contribution Streak"
+/>
+
+<br/><br/>
+
+<img
+  src="https://github-stats-extended.vercel.app/api/top-langs/?username=Nujhath-Tabassum&layout=compact&langs_count=5&theme=tokyonight&hide_border=true"
+  width="65%"
+  alt="Most Used Languages"
+/>
 
 </div>
+
+---
 
 ---
 
