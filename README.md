@@ -18,7 +18,7 @@
 
 ## 🌸 About Me
 
-```javascript
+
 const tabassum = {
     name: "Syeda Nujhath Tabassum",
     location: "Bangladesh 🇧🇩",
@@ -38,7 +38,7 @@ const tabassum = {
     ],
     funFact: "A developer with a creative side! 🎨"
 };
-```
+
 
 - 💻 Passionate about creating beautiful and functional websites.
 - 🌱 Currently exploring full-stack development.
