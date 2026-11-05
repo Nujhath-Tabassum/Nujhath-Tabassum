@@ -122,7 +122,7 @@ const tabassum = {
 
 ---
 
-## 🐍 Watch My Contributions Get Eaten!
+## My Contributions 
 
 <div align="center">
 
