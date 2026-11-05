@@ -7,13 +7,9 @@
 
 <br/>
 
-<a href="https://github.com/Nujhath-Tabassum">
-<img src="https://komarev.com/ghpvc/?username=Nujhath-Tabassum&label=Profile%20Visitors&color=blueviolet&style=for-the-badge" />
-</a>
+<img src="https://komarev.com/ghpvc/?username=Nujhath-Tabassum&label=Profile%20Visitors&color=blueviolet&style=for-the-badge"/>
 
-<a href="https://github.com/Nujhath-Tabassum?tab=followers">
-<img src="https://img.shields.io/github/followers/Nujhath-Tabassum?style=for-the-badge&color=blue&label=Followers" />
-</a>
+<img src="https://img.shields.io/github/followers/Nujhath-Tabassum?style=for-the-badge&color=blue&label=Followers"/>
 
 </div>
 
@@ -21,7 +17,7 @@
 
 ## 🌸 About Me
 
-
+```javascript
 const tabassum = {
     name: "Syeda Nujhath Tabassum",
     location: "Bangladesh 🇧🇩",
@@ -41,13 +37,12 @@ const tabassum = {
     ],
     funFact: "A developer with a creative side! 🎨"
 };
-
-
+```
 
 - 💻 Passionate about creating beautiful and functional websites.
 - 🌱 Currently exploring full-stack development.
 - 🚀 Improving my React, Next.js and backend skills.
-- 🎨 Interested in UI/UX design and creative arts.
+- 🎨 Interested in UI/UX Design and Creative Arts.
 - ⚡ Turning ideas into code, one project at a time!
 
 ---
@@ -115,25 +110,21 @@ const tabassum = {
 
 ## 📈 Contribution Activity
 
-## 📈 Contribution Activity
-
 <div align="center">
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=Nujhath-Tabassum&theme=tokyo-night&hide_border=true&area=true" width="100%" alt="GitHub Activity Graph"/>
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=Nujhath-Tabassum&theme=tokyo-night&hide_border=true&area=true" width="100%" alt="GitHub Contribution Activity"/>
 
 </div>
 
 ---
 
-## My Contributions
+## 🐍 My Contributions
 
 <div align="center">
 
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Nujhath-Tabassum/Nujhath-Tabassum/output/github-snake-dark.svg">
-
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Nujhath-Tabassum/Nujhath-Tabassum/output/github-snake.svg">
-
   <img alt="GitHub Contribution Snake" src="https://raw.githubusercontent.com/Nujhath-Tabassum/Nujhath-Tabassum/output/github-snake.svg" width="100%"/>
 </picture>
 
@@ -164,6 +155,16 @@ const tabassum = {
 
 </details>
 
+<details>
+<summary>💡 Things I Love</summary>
+
+- 🎨 Creative designing
+- 💻 Building websites
+- 🌱 Learning new technologies
+- ✨ Exploring new ideas
+
+</details>
+
 ---
 
 ## 🌐 Let's Connect!
@@ -188,14 +189,14 @@ const tabassum = {
 
 <div align="center">
 
-### 💜 A little reminder
+### 💜 A Little Reminder
 
 **"Code. Create. Learn. Repeat."**
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:667eea,100:764ba2&height=100&section=footer" width="100%"/>
 
 </div>
-```
+````
 
 
 
